@@ -1,0 +1,13 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIAT6VUQUMFGJO3ENU7
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/272035259146/SurgeDemoQueue
+
+      
+
